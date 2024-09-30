@@ -2,6 +2,7 @@
 
 Author : Husam Abdelrahim
 
-Import 
+import random
+import time
 
 IS211_Assignment4 
